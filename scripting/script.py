@@ -35,5 +35,4 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python script.py <path_to_tfplan.json>")
         sys.exit(1)
-# ADD CODE HERE
-# change script to whatever language you are comfortable with
+
